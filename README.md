@@ -13,6 +13,6 @@ docker build -t ff/tomcat7 .
 ```
 docker run -it -p 80:8080 -d ff/tomcat7
 ```
-就运行一个刚管理员的账号与密码
+就运行一个tomcat，可以用刚出输出的管理员的账号与密码上传web应用
 
 
